@@ -1,0 +1,19 @@
+{
+    "name": "colorfulConsole",
+    "description": "Colorful Console",
+    "version": "1.0.0",
+    "homepage": "https://github.com/scaret/colorfulConsole",
+    "contributors": [
+        {
+            "name": "scaret",
+            "email": "i@scaret.in"
+        }
+    ],
+    "dependencies": {
+        "vt100tocss": "https://github.com/scaret/vt100tocss/archive/7ab64ad18c6d122fbd7e0267d622e9d29a99d8b9.tar.gz"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/scaret/colorfulConsole.git"
+    }
+}
