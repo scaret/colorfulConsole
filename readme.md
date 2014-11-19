@@ -2,7 +2,7 @@
 
 make console outputs colorful in both terminal and browser.
 
-Similar to (colour.js)[https://github.com/dcodeIO/colour.js]
+Similar to [colour.js](https://github.com/dcodeIO/colour.js)
 
 ## Usage in Node JS:
 
