@@ -5,10 +5,13 @@
 </head>
 <body>
 Open Chrome Console To See the output
-<script src="vt100tocss.js"></script>
 <script src="../colorfulConsole.js"></script>
 <script>
-
+    colorfulConsole.red("Red")
+            .bold().green("Bold and Green")
+            .yellow().bold().blackBg("Yellow, Bold, Black Background")
+            .info("Normal console.info()");
+    colorfulConsole.rainbow("Rainbow~~~~~~~~~~~~~~~~~~~~~~~");
 </script>
 </body>
 </html>
